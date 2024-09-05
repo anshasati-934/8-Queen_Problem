@@ -65,11 +65,3 @@ The GUI displays the following elements:
 ## Author
 
 Ansh Asati
-
-## License
-
-[Include your chosen license here]
-
-## Acknowledgements
-
-[Include any acknowledgements or references if applicable]
